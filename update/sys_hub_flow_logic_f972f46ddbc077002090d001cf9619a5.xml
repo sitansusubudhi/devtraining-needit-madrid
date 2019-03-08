@@ -5,7 +5,6 @@
         <connected_to/>
         <decision_table display_value="Assignee Category Decision">f83f08a5db8077002090d001cf961925</decision_table>
         <decision_table_inputs/>
-        <decision_table_inputs/>
         <display_text/>
         <flow display_value="NeedIt Fulfillment">b09b374ddb4437002090d001cf96195b</flow>
         <inputs/>
@@ -73,41 +72,4 @@
         <value>f83f08a5db8077002090d001cf961925</value>
         <variable display_value="">a9a0bc2b0b2313009002cab937673ac6</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=f972f46ddbc077002090d001cf9619a5"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>u_priority</field>
-        <id>f972f46ddbc077002090d001cf9619a5</id>
-        <sys_created_by>sys.admin</sys_created_by>
-        <sys_created_on>2019-03-07 10:18:41</sys_created_on>
-        <sys_id>b972f46ddbc077002090d001cf9619ab</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>sys.admin</sys_updated_by>
-        <sys_updated_on>2019-03-07 10:18:41</sys_updated_on>
-        <table>var__m_sys_decision_input_f83f08a5db8077002090d001cf961925</table>
-        <value>{{e9277611-1c2a-4d23-95d6-6b0072b92145.record.priority}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>u_request_type</field>
-        <id>f972f46ddbc077002090d001cf9619a5</id>
-        <sys_created_by>sys.admin</sys_created_by>
-        <sys_created_on>2019-03-07 10:18:41</sys_created_on>
-        <sys_id>3172f46ddbc077002090d001cf9619ac</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>sys.admin</sys_updated_by>
-        <sys_updated_on>2019-03-07 10:18:41</sys_updated_on>
-        <table>var__m_sys_decision_input_f83f08a5db8077002090d001cf961925</table>
-        <value>{{e9277611-1c2a-4d23-95d6-6b0072b92145.record.u_request_type}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>u_what_needed</field>
-        <id>f972f46ddbc077002090d001cf9619a5</id>
-        <sys_created_by>sys.admin</sys_created_by>
-        <sys_created_on>2019-03-07 10:18:41</sys_created_on>
-        <sys_id>7d72f46ddbc077002090d001cf9619ab</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>sys.admin</sys_updated_by>
-        <sys_updated_on>2019-03-07 10:18:41</sys_updated_on>
-        <table>var__m_sys_decision_input_f83f08a5db8077002090d001cf961925</table>
-        <value>{{e9277611-1c2a-4d23-95d6-6b0072b92145.record.u_what_needed}}</value>
-    </sys_element_mapping>
 </record_update>
